@@ -7,3 +7,16 @@
 
 ![image-20220213231041902](README.assets/image-20220213231041902.png)
 
+이후 IntelliJ에서 Lombok 메뉴얼에 따라 설치 (Annotation 등록 체크까지 확인)
+
+API는 POSTMAN 사용해서 요청 주고받음
+
+
+
+
+
+---
+
+### IntelliJ 단축키
+
+Ctrl + O : 자주쓰는 코드 생성 
